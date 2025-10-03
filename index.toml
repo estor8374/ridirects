@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://larnloop.netlify.app"
+  status = 301
+  force = true
